@@ -3,7 +3,7 @@
 📌 **Nombre**: Aplicación Mobile con API Rest  
 🔗 **Repositorio**: https://gitlab.com/grup1_projecte3/projecte3  
 
-Aplicación móvil desarrollada como proyecto académico que consume una API REST para la gestión y visualización de datos. La aplicación está desarrollada en Android utilizando Kotlin y Jetpack Compose para la interfaz de usuario, mientras que el backend está construido con Spring Boot siguiendo una arquitectura basada en servicios REST.
+Aplicación móvil que consume una API REST para la gestión y visualización de datos. La aplicación está desarrollada en Android utilizando Kotlin y Jetpack Compose para la interfaz de usuario, mientras que el backend está construido con Spring Boot siguiendo una arquitectura basada en servicios REST.
 
 ###
 
